@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define pi (22)
+#define pi (22/7)
 int main(){
     float r,c;
     printf("Circumfrence of Circle:\n");
